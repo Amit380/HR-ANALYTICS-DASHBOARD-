@@ -32,12 +32,12 @@ The dataset used for this project consists of information related to HR analytic
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
  
 ## Screenshots:
-![Screenshot HR Analytics]()
+![Screenshot HR Analytics](https://github.com/Amit380/HR-ANALYTICS-DASHBOARD-/blob/main/Screenshot%20HR%20Analytics.png)
 
 
 To explore the HR analytics dashboard:
 1.	Clone the repository:
-git clone!()
+git clone!(https://github.com/Amit380/HR-ANALYTICS-DASHBOARD-)
 
 2.	Open Power BI Desktop or Power BI Online.
 3.	Download the raw dataset files located in the repository.
